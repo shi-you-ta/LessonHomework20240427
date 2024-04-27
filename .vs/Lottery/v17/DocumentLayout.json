@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\lottery\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\lotterysub4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\lotterysub4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\lottery.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\lottery.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\lotterysuper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\lotterysuper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\lotterysub8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\lotterysub8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\windowsformapphomework20240421\\lottery\\lottery\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3FF5F24-D5D4-4208-AE42-066086E78BB9}|Lottery\\Lottery.vbproj|solutionrelative:lottery\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LotterySub8.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LotterySub8.vb",
+              "RelativeDocumentMoniker": "Lottery\\LotterySub8.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LotterySub8.vb",
+              "RelativeToolTip": "Lottery\\LotterySub8.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T02:20:20.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LotterySub4.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LotterySub4.vb",
+              "RelativeDocumentMoniker": "Lottery\\LotterySub4.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LotterySub4.vb",
+              "RelativeToolTip": "Lottery\\LotterySub4.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T01:51:22.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LotterySuper.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LotterySuper.vb",
+              "RelativeDocumentMoniker": "Lottery\\LotterySuper.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LotterySuper.vb",
+              "RelativeToolTip": "Lottery\\LotterySuper.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T01:41:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lottery",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\Lottery.vbproj",
+              "RelativeDocumentMoniker": "Lottery\\Lottery.vbproj",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\Lottery.vbproj",
+              "RelativeToolTip": "Lottery\\Lottery.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-04-27T01:38:56.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LoginForm1.vb",
+              "RelativeDocumentMoniker": "Lottery\\LoginForm1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LoginForm1.vb",
+              "RelativeToolTip": "Lottery\\LoginForm1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T00:39:58.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LoginForm1.vb",
+              "RelativeDocumentMoniker": "Lottery\\LoginForm1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\LoginForm1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Lottery\\LoginForm1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T00:39:11.72Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\Form1.vb",
+              "RelativeDocumentMoniker": "Lottery\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\Form1.vb",
+              "RelativeToolTip": "Lottery\\Form1.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwF0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T12:21:48.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\Form1.vb",
+              "RelativeDocumentMoniker": "Lottery\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\WindowsFormAppHomework20240421\\Lottery\\Lottery\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Lottery\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T12:08:07.763Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

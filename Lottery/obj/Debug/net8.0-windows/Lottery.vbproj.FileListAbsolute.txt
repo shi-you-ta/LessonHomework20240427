@@ -1,0 +1,17 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\bin\Debug\net8.0-windows\Lottery.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\bin\Debug\net8.0-windows\Lottery.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\bin\Debug\net8.0-windows\Lottery.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\bin\Debug\net8.0-windows\Lottery.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\bin\Debug\net8.0-windows\Lottery.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.Form1.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\refint\Lottery.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\ref\Lottery.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\WindowsFormAppHomework20240421\Lottery\Lottery\obj\Debug\net8.0-windows\Lottery.LoginForm1.resources
